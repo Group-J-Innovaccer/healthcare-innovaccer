@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/healthcare-innovaccer/static/css/main.2c35fcb5.chunk.css",
+    "main.js": "/healthcare-innovaccer/static/js/main.d56226d8.chunk.js",
+    "main.js.map": "/healthcare-innovaccer/static/js/main.d56226d8.chunk.js.map",
+    "runtime-main.js": "/healthcare-innovaccer/static/js/runtime-main.6e03ba51.js",
+    "runtime-main.js.map": "/healthcare-innovaccer/static/js/runtime-main.6e03ba51.js.map",
+    "static/js/2.df38d390.chunk.js": "/healthcare-innovaccer/static/js/2.df38d390.chunk.js",
+    "static/js/2.df38d390.chunk.js.map": "/healthcare-innovaccer/static/js/2.df38d390.chunk.js.map",
+    "index.html": "/healthcare-innovaccer/index.html",
+    "precache-manifest.0f41a95435e1b07c6891024324250005.js": "/healthcare-innovaccer/precache-manifest.0f41a95435e1b07c6891024324250005.js",
+    "service-worker.js": "/healthcare-innovaccer/service-worker.js",
+    "static/css/main.2c35fcb5.chunk.css.map": "/healthcare-innovaccer/static/css/main.2c35fcb5.chunk.css.map",
+    "static/js/2.df38d390.chunk.js.LICENSE.txt": "/healthcare-innovaccer/static/js/2.df38d390.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/healthcare-innovaccer/static/media/footer.7e5aec06.png",
+    "static/media/Mask Group 4.jpg": "/healthcare-innovaccer/static/media/Mask Group 4.dc64366c.jpg",
+    "static/media/drimage.jpg": "/healthcare-innovaccer/static/media/drimage.2ac90daf.jpg",
+    "static/media/patient.jpg": "/healthcare-innovaccer/static/media/patient.e12239fa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e03ba51.js",
+    "static/js/2.df38d390.chunk.js",
+    "static/css/main.2c35fcb5.chunk.css",
+    "static/js/main.d56226d8.chunk.js"
+  ]
+}
