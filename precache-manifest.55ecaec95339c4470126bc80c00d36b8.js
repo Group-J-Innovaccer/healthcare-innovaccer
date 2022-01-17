@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1dda6ba4eca470dfa5241e52711084f9",
+    "revision": "81f10fc7d4ba8e742f304d9e7a3be966",
     "url": "/healthcare-innovaccer/index.html"
   },
   {
-    "revision": "2397ee72fa1832f83c88",
+    "revision": "8ac1c8a1eee665998a5e",
     "url": "/healthcare-innovaccer/static/css/main.2c35fcb5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/healthcare-innovaccer/static/js/2.df38d390.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2397ee72fa1832f83c88",
-    "url": "/healthcare-innovaccer/static/js/main.d56226d8.chunk.js"
+    "revision": "8ac1c8a1eee665998a5e",
+    "url": "/healthcare-innovaccer/static/js/main.6f505ecc.chunk.js"
   },
   {
     "revision": "037f66785d8d4ab28ede",
